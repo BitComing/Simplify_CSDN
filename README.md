@@ -7,7 +7,8 @@
 - 不需要关注博主可浏览全部页面。
 
 # Preview
-<img src="screenshot\example.jpeg" width="60%"></br>
+<img src="screenshot\example.jpeg" width="60%">
+
 # Roadmap
 1.3：局部实现没有“登陆后复制”的按钮。
 
